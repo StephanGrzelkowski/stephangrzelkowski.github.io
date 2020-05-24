@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spike Field Coherence in Microelectrode recordings in human epilepsy patients engaged in a memory task"
+title:  "Spike field coherence in microelectrode recordings in human epilepsy patients engaged in a visual memory task"
 date:   2018-09-30 00:00:00 +0200
 categories: research_project
 logo_url: /assets/icons/harvardlogo.png

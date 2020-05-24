@@ -2,6 +2,25 @@
 layout: page
 title: GameDev
 permalink: /gamedev/
+height_thumbnail: 200px
 ---
+{%- if site.games.size > 0 -%}
+<ul class="post-list">
+    {%- for post in site.games reversed-%}
+    <li>
+    <img src="{{post.thumbnail_url}}" style="float:right;width:{{page.height_thumbnail}}">
+    <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+        </a>
+    </h2>
+    {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+        
+    {%- endif -%}
+    </li>
+    <hr>
+    {%- endfor -%}
+</ul>
 
-Here you can find a summary of all the things related to gamedev that I've been up to. 
+{%- endif -%}

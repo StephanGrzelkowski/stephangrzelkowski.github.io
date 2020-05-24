@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analysis of the latent variables in a RNN VAE fitting Widefield data in a mice decision task"
+title:  "Analysis of the latent variables in a RNN VAE fitting widefield data in a mice decision task"
 date:   2019-07-31 00:00:00 +0200
 categories: research_project
 logo_url: /assets/icons/rikenlogo.png

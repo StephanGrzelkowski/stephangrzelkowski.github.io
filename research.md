@@ -6,7 +6,7 @@ height_logo: 100px
 ---
 {%- if site.research_projects.size > 0 -%}
 <ul class="post-list">
-    {%- for post in site.research_projects-%}
+    {%- for post in site.research_projects reversed-%}
     <li>
     <img src="{{post.logo_url}}" style="float:right;width:{{page.height_logo}}">
     <h2>

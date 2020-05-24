@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eye Tracking measuring arousal in mice during 2-photon stimulation"
+title:  "Eye-tracking measuring arousal in mice under 2-photon imaging"
 date:   2015-06-31 00:42:06 +0200
 categories: research_project
 logo_url: /assets/icons/uvalogo.jpg
