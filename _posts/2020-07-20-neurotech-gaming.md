@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Neurotech Gaming Conference was last weekend"
+title:  "The Neurotech Gaming Conference was last weekend!"
 date:   2020-07-20 15:00:00 +0200
 categories: neurotech
 ---
