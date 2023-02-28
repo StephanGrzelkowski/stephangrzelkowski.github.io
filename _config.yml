@@ -34,6 +34,10 @@ collections:
     output: true
   games:
     output: true
+  portfolio:
+    output: true
+  projects: 
+    output: true
      
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
