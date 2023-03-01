@@ -33,7 +33,7 @@ collections:
   research_projects:
     output: true
   games:
-    output: true
+    output: false
   portfolio:
     output: true
   projects: 
