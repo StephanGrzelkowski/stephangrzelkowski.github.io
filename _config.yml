@@ -32,8 +32,6 @@ show_excerpts: true
 collections: 
   research_projects:
     output: true
-  games:
-    output: false
   portfolio:
     output: true
   projects: 
