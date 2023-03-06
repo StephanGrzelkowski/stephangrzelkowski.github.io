@@ -1,9 +1,13 @@
 ---
 layout: home
 ---
-Welcome to my website! 
+
+####Welcome to my website! 
+<br/><br/>
 
 ***
+
+<br/><br/>
 
 I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warhammer 3. Here's a cool trailer:
 
@@ -14,7 +18,6 @@ I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warh
 ***
 
 <br/><br/>
-<br/><br/>
 
 Here's a personal project I put together to create a **realistic spatial propagation** system for footsteps audio in Wwise and Unity:  
 
@@ -24,7 +27,6 @@ Here's a personal project I put together to create a **realistic spatial propaga
 
 ***
 
-<br/><br/>
 <br/><br/>
 
 In one of my past lives, I did a Masters in Neuroscience at the University of Amsterdam and did a bunch of courses on Artificial Intelligence there as well. You can read up on my [research projects](/research) if you want. 
