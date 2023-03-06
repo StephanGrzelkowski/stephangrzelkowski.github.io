@@ -1,15 +1,11 @@
 ---
 layout: home
 ---
-
-
-## Welcome to my website! 
-<img src="/assets/icons/self.jpg" style="width:150px;margin:30px">
-
+Welcome to my website! 
 
 I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warhammer 3. Here's a cool trailer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qqhc3mK06r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/Qqhc3mK06r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here's a personal project I put together to create a **realistic spatial propagation** system for footsteps audio in Wwise and Unity:  
 
