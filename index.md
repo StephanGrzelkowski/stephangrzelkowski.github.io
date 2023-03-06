@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="/assets/icons/self.jpg" style="float:right;width:150px;margin:30px">
+<img src="/assets/icons/self.jpg" style="width:150px;margin:30px">
 Welcome to my website! 
 
 I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warhammer 3. Here's a cool trailer:
@@ -15,5 +15,3 @@ Here's a personal project I put together to create a **realistic spatial propaga
 In one of my past lives, I did a Masters in Neuroscience at the University of Amsterdam and did a bunch of courses on Artificial Intelligence there as well. You can read up on my [research projects](/research) if you want. 
 
 If I can find time from playing video games all day, I do music tangential things, including [**building stuff for my modular synth**](/projects). 
-
-For more information take a look at my [CV](assets/other/CV_StephanGrzelkowski.pdf). 
