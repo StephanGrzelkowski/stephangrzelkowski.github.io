@@ -11,4 +11,4 @@ This was a project I'd been thinking about for a while. I got this inspiration a
 
 The video below has a lengthy explanation using some 2D schematics as a approximation to explain the algorithm. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5rK5BsY53so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="680" height="385" src="https://www.youtube.com/embed/5rK5BsY53so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
