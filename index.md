@@ -20,7 +20,7 @@ I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warh
 ***
 
 <br/><br/>
-In one of my past lives, I studied **Neuroscience** at the University of Amsterdam and did a bunch of courses on **Artificial Intelligence** there as well. You can read up on my [research projects](/research) if you want. 
+In one of my past lives, I studied **Neuroscience** at the University of Amsterdam and did a bunch of courses on **Artificial Intelligence** there as well. You can read up on my [research projects](/research) if you're interested. 
 
 If I can find time from playing video games all day, I do music related stuff, including [building stuff for my modular synth](/projects). 
 
