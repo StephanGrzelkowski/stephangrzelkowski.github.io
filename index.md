@@ -2,10 +2,7 @@
 layout: home
 ---
 
-#### Welcome to my website! 
-
-
-***
+#### WELCOME TO MY WEBSITE! 
 
 
 I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warhammer 3. Here's a cool trailer:
