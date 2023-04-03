@@ -9,6 +9,11 @@ The idea for this project was to create a more realisitc sounding propagation sy
 
 This was a project I'd been thinking about for a while. I got this inspiration after reading a blog post of the internal audio code team at Creative Assembly. 
 
+Here's a short summary of the system:
+
+<iframe width="680" height="385" src="https://youtu.be/d8SsA0nktx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/><br/>
+
 The video below has a lengthy explanation using some 2D schematics as a approximation to explain the algorithm. 
 
 <iframe width="680" height="385" src="https://www.youtube.com/embed/5rK5BsY53so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

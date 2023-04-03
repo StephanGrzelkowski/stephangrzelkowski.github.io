@@ -12,9 +12,9 @@ I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warh
 
 ***
 
-<br/><br/> Here's a personal project I put together to create a [realistic spatial propagation](/portfolio/2023-02-15-Footsteps) system for footsteps audio in Wwise and Unity:  
+<br/><br/> Here's a personal project I put together to create a system for footsteps audio in Wwise and Unity. Here's a link to the [write up](/portfolio/2023-02-15-Footsteps)  
 
-<iframe width="680" height="385" src="https://www.youtube.com/embed/5rK5BsY53so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="680" height="385" src="https://youtu.be/d8SsA0nktx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/><br/>
 
 ***
