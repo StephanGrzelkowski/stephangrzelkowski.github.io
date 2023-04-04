@@ -7,7 +7,7 @@ layout: home
 
 I'm currently an **Audio QA Lead at Creative Assembly**, working on DLC for Warhammer 3. Here's a cool trailer:
 
-<iframe width="680" height="385" src="https://www.youtube.com/embed/Qqhc3mK06r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiHvsinEn58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/><br/>
 
 ***
