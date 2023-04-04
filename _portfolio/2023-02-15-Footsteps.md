@@ -11,7 +11,7 @@ This was a project I'd been thinking about for a while. I got this inspiration a
 
 Here's a short summary of the system:
 
-<iframe width="680" height="385" src="https://youtu.be/d8SsA0nktx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="680" height="385" src="https://youtu.be/embed/d8SsA0nktx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/><br/>
 
 The video below has a lengthy explanation using some 2D schematics as a approximation to explain the algorithm. 
